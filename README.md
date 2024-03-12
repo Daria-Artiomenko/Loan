@@ -2,7 +2,7 @@
   <img src='src/assets/icons/logo.svg' width="95" height="105" display="block" margin-left="50%" text-align="center" />
 </p>
 
-# <p align="center">Arts to order</p>
+# <p align="center">Bring it up</p>
 
 ## About the project ℹ️
 The website provides an opportunity for the user to learn more about the service, send a request, watch  videos and much more.
