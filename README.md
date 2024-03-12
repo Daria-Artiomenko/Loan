@@ -9,7 +9,7 @@ The website provides an opportunity for the user to learn more about the service
 
 Click on the demo and watch.
 
-👉 Live Demo: [Live Demo](https://arts-and-paintings.netlify.app/)
+👉 Live Demo: [Live Demo](https://bringitup-art.netlify.app/)
 
 ## Build with ⚙️
 
